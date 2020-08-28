@@ -1,0 +1,6 @@
+{
+  "name": "@some/core",
+  "optionalDependencies": {
+    "fork-ts-checker-webpack-plugin": "~5.0.7"
+  }
+}
