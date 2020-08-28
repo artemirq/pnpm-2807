@@ -5,7 +5,7 @@ importers:
     optionalDependencies:
       fork-ts-checker-webpack-plugin: 5.0.14
     specifiers:
-      fork-ts-checker-webpack-plugin: ~5.0.7
+      fork-ts-checker-webpack-plugin: '>=5.0.0'
 lockfileVersion: 5.1
 packages:
   /@babel/code-frame/7.10.4:
